@@ -47,7 +47,6 @@ class FPS extends TextField
 		selectable = false;
 		mouseEnabled = false;
 		defaultTextFormat = new TextFormat((Paths.font("vcr.ttf"), color)
-		autoSize = LEFT;
 		multiline = true;
 		text = "FPS: ";
 
